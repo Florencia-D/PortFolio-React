@@ -1,0 +1,8 @@
+.main {
+    margin: 0%;
+    padding: 0%;
+}
+.card h2,p{
+    background-color:#000000;
+    color: rgb(230, 230, 230);
+}

@@ -1,9 +1,11 @@
+import '../css/Header.css';
+
 function Header () {
-    const nombre = "Florencia Díaz";
+    const alumno = "Florencia Díaz";
     return (
         <>
-        <div>
-            <h1>Portfolio {nombre}</h1>
+        <div className="header">
+            <h1>Portfolio {alumno}</h1>
             <hr />
         </div>
         </>
